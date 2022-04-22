@@ -1,21 +1,26 @@
-body{
- background-image: url('https://media0.giphy.com/media/3og0IV7MOCfnm85iRa/giphy.gif?cid=ecf05e47qzdue93t5okagh06mvi7we5qxp0qbedu8e9oxup7&rid=giphy.gif&ct=g');
- background-size: cover;}
- h1{
-    color: whitesmoke;
-    font: sans-serif;
+.btn{
+    padding: 15px;
+    margin: 1px solid black;
+    border-radius: 2px;
+    background-color: rgb(52, 8, 58);
     display: block;
     margin: auto;
-  font-size:200px;
- }
-start{
-  display: block;
-    margin: auto;
+    text-align: center;
 }
-logo{
-    margin: auto;
+.wel{
+    display: block;
+    text-align: center;
+    font-size: 120px;
+    color: antiquewhite;
 }
-box{
+.logo{
+    height: 450px;
+    width: 450px;
+    margin: auto;
+    border: 5px solid rgb(11, 11, 11);
+
+}
+.box{
 
     display: block;
     margin: auto;
@@ -23,8 +28,13 @@ box{
     height: auto;
     width: fit-content;
 }
-button{
+#button{
     padding: 10px;
     font-size: large;
     font-weight: bold;
+}
+.body{
+    background-image: url(https://c.tenor.com/yu4yJBMcidMAAAAd/space.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
