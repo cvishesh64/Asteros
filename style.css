@@ -12,3 +12,19 @@ start{
   display: block;
     margin: auto;
 }
+logo{
+    margin: auto;
+}
+box{
+
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+    height: auto;
+    width: fit-content;
+}
+button{
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+}
