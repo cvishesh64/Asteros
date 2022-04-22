@@ -4,4 +4,6 @@ body{
  h1{
     color: whitesmoke;
     font: sans-serif;
+    display: block;
+    margin: auto;
  }
