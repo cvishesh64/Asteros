@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style ="background: url(https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+background-size:100%;
+background-repeat:no-repeat;">
+    <h1 style="font-size:80px;"><p style="color:white;">Overview:
+        <br>Distance from the sun: About 36 million miles, slightly more than 1/3 as far as the Earth.
+        <br>Year: About 88 Earth days.<br><br>
+        Day: About 59 Earth days.<br><br>
+        Diameter: About 3,000, less than half of Earth's.<br><br>
+        Temperatures: - 279 degrees Fahrenheit on the side away from the sun; 801 degrees Fahrenheit on the side facing the sun.<br><br>
+        Sun-scorched Mercury, the smallest planet in our solar system, is only slightly larger than Earth's moon. Like the moon, Mercury has very little atmosphere to stop impacts and it is covered with craters. Mercury's dayside is super-heated by the sun, but at night temperatures drop hundreds of degrees below freezing. Ice may even exist in craters.
+        
+        Want to know more about Mercury? Visit these links:
+        </p></h1>
+</body>
+</html>
