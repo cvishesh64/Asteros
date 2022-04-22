@@ -1,3 +1,7 @@
 body{
-    background-image: url('https://media0.giphy.com/media/3og0IV7MOCfnm85iRa/giphy.gif?cid=ecf05e47qzdue93t5okagh06mvi7we5qxp0qbedu8e9oxup7&rid=giphy.gif&ct=g');
-background-size: cover; }
+ background-image: url('https://media0.giphy.com/media/3og0IV7MOCfnm85iRa/giphy.gif?cid=ecf05e47qzdue93t5okagh06mvi7we5qxp0qbedu8e9oxup7&rid=giphy.gif&ct=g');
+ background-size: cover;}
+ h1{
+    color: whitesmoke;
+    font: sans-serif;
+ }
