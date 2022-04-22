@@ -47,7 +47,7 @@ span:nth-child(7){animation-delay:3.5s
     height: 450px;
     width: 450px;
     margin: auto;
-    border: 5px solid rgb(11, 11, 11);
+    border: 2px solid rgb(11, 11, 11);
     border-radius: 5px;
 
 }
