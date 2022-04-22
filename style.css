@@ -19,7 +19,7 @@
 0%{ text-shadow: 0 0 30px rgba(0,0,0,0);
     }
     50%{ text-shadow: 0 0 30px rgba(0,0,0,30);
-    transform:translateY(30px);
+    transform:translateX(30px);
     }
     100%{ text-shadow: 0 0 30px rgba(0,0,0,0);
     }
