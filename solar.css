@@ -84,22 +84,6 @@ img {
   top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 14px;
-  width: 14px;
-  margin: 0px;
-  background-color: rgb(143, 140, 140);
-  border-radius: 45%;
-  display: inline-block;
-  transition: background-color 0.09s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
 /* Fading animation */
 .fade {
   animation-name: fade;
