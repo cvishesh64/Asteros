@@ -23,4 +23,8 @@
    font-family: 'Franklin Gothic Medium', 'Arial Nar';
    margin: 40px;
 }
-
+@keyframes textclip {
+  to {
+    background-position: 20% center;
+  }
+}
