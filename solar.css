@@ -8,7 +8,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   height: 214px;
   text-align: center;
-  border: 2px solid rgb(0, 0, 0);
+  border: 2px solid;
   border-radius: 5px;
   width: 230px;
   display: block;
