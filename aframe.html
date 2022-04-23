@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="">
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+    
+</head>
+<body >   
+   <a-scene>
+       <a-camera>
+           <a-cursor></a-cursor>
+       </a-camera>
+
+            <a-sky src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/equi%202.jpg?v=1650688232610"></a-sky>
+ 
+   
+
+
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 10000">
+    <a-sphere
+    src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_sun.jpg?v=1650689482053"
+              radius="1"
+              position="0 0 0" 
+              id="sun">
+            
+            </a-sphere></a-entity>
+ 
+           
+           
+ <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 20000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_mercury.jpg?v=1650692103646"
+    radius="0.3"
+   position="1.5 0 -1"
+    id="mercury"></a-sphere>
+    </a-entity>
+     
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 90000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/4k_venus_atmosphere.jpg?v=1650692180610"
+    radius="0.4"
+    position="-3.8 0 2" 
+    id="venus"></a-sphere>
+    
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 100000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_earth_daymap.jpg?v=1650692236607" 
+    radius="0.5"
+    position="5.5 0 3"
+    id="earth"></a-sphere> 
+    </a-entity>
+    
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 200000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_mars.jpg?v=1650692311427"
+    radius="0.3"
+    position="-7.8 0 -4"
+    id="mars"></a-sphere> </a-entity>
+
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 300000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_jupiter.jpg?v=1650693672146"
+    radius="0.8"
+    position="0 0 5"
+    id="jupiter"></a-sphere> </a-entity>
+   
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 800000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_saturn.jpg?v=1650693704474"
+    radius="0.7"
+    position="-11.2 0 6"
+    id="saturn">
+    <a-ring src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/8k_saturn_ring_alpha.png?v=1650694915319" 
+           radius-inner="0.8" radius-outer="1.2" side="double"></a-ring>
+    </a-sphere> </a-entity>
+
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 900000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/2k_uranus.jpg?v=1650693731674"
+    radius="0.6"
+    position="14 0 -7"
+    id="uranus"></a-sphere></a-entity>
+
+    <a-entity rotation="0 0 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 1000000">
+    <a-sphere src="https://cdn.glitch.global/0a840286-b33d-4eed-84f9-f4656868a405/2k_neptune.jpg?v=1650693759882"
+    radius="0.6"
+    position="9.8 0 8"
+    id="neptune"></a-sphere> </a-entity>
+
+  
+     
+
+
+
+
+   </a-scene>
+
+    
+</body>
+</html>
