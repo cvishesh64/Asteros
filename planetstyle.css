@@ -11,7 +11,7 @@
   );
   background-size: auto auto;
   background-clip: border-box;
-  background-size: 100% auto;
+  background-size: 50% auto;
   color: #fff;
   background-clip: text;
   text-fill-color: transparent;
@@ -20,11 +20,12 @@
   animation: textclip 2s linear infinite;
   display: inline-block;
       font-size: 25px;
-   font-family: 'Franklin Gothic Medium', 'Arial Nar';
+  font-family: 'Franklin Gothic Medium', 'Arial Nar';
    margin: 40px;
 }
+
 @keyframes textclip {
   to {
-    background-position: 20% center;
+    background-position: 30% center;
   }
 }
