@@ -17,7 +17,7 @@
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: textclip 5s linear infinite;
+  animation: textclip 10s linear infinite;
   display: inline-block;
       font-size: 25px;
   font-family: 'Franklin Gothic Medium', 'Arial Nar';
