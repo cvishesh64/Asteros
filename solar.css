@@ -8,6 +8,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   height: 230px;
   text-align: center;
+  border-color: transparent;
   width: 230px;
   display: block;
   margin: auto;
