@@ -70,9 +70,9 @@ img {
   color: #f2f2f2;
   font-size: 15px;
   padding: 8px 12px;
-  position: relative;
+  position: absolute;
   width: 100%;
-  text-align: center;
+  text-align: left;
 }
 
 /* Number text (1/3 etc) */
