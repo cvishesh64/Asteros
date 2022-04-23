@@ -12,7 +12,7 @@
       choices: ["5 billion years","5000 years","50 billion years"],
       correctAnswer: 0
     }, {
-      question: "Are th orbits of all the planets in the same plane?",
+      question: "Are the orbits of all the planets in the same plane?",
       choices: ["Yes,more or less", "No, they are all over the place", "not sure"],
       correctAnswer: 0
     }, {
